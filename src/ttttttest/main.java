@@ -30,7 +30,7 @@ public class main {
 		      
 		      switch(num) {
 		      case 1 :
-		         System.out.println("1.Â¥Àå¸é 2.Â«»Í ");
+		         System.out.println("1.Â¥Àå¸é 2.Â«»Í 3.¿ÀÂ¡¾î!!!!!");
 		         System.out.println(">>>>>>");
 
 		         num= input.nextInt();

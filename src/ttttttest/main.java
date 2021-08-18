@@ -34,10 +34,17 @@ public class main {
 		         System.out.println(">>>>>>");
 
 		         num= input.nextInt();
-		         
-
-	}
-
-}
-}
-}
+		         switch(num) {
+		         case 3 :
+		             System.out.println("주문을 확인합니다.");
+		             System.out.println("짜장면 ");
+		            
+		             break;
+		          
+		          default : 
+		             System.out.println("다시 선택하세요"); 
+		          }
+		       }
+		    }
+		    }
+		         }

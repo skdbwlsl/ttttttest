@@ -2,10 +2,12 @@ package ttttttest;
 
 import java.util.Scanner;
 
+import ttttttest_test.test;
+
 
 public class main {
 
-	
+	test ts = new test();
 		public static void main(String[] args) {
 		   
 		      
